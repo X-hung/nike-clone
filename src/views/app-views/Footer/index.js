@@ -39,27 +39,27 @@ const Footer = () => {
   const gridTitle = [
     {
       Id: 1,
-      Name: "MAĞAZA BUL",
+      Name: "FIND A STORE",
       Link: "/retail",
     },
     {
       Id: 2,
-      Name: "E-POSTA İÇİN KAYDOL",
+      Name: "NIKE JOURNAL",
       Link: "/email-signup",
     },
     {
       Id: 3,
-      Name: "ÜYE OL",
+      Name: "BECOME A MEMBER",
       Link: "/register",
     },
     {
       Id: 4,
-      Name: "GERİ BİLDİRİM",
+      Name: "FEEDBACK",
       Link: "/#site-feedback",
     },
     {
       Id: 5,
-      Name: "PROMOSYON KODLARI",
+      Name: "PROMO CODES",
       Link: "/promosyon-kodu",
     },
   ];
