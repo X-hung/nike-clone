@@ -11,7 +11,7 @@ import FooterCategories from "./Home-Components/FooterCategories";
 
 const Home = () => {
   useEffect(() => {
-    document.title = "Nike Clone | Onur Uçar";
+    document.title = "Nike Clone | Hunter Xu";
   }, []);
   return (
     <div>
