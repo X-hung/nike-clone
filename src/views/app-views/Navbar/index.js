@@ -1705,7 +1705,7 @@ const Navbar = () => {
           </label>
           <Link to="/erkek">
             <li>
-              Yeni Çıkanlar
+              New Releases
               <div className="yeni-cikanlar hidden">
                 <div className="grid grid-cols-5 gap-4">
                   <Menu options={newProducts} />
@@ -1715,7 +1715,7 @@ const Navbar = () => {
           </Link>
           <Link to="/erkek">
             <li>
-              Erkek
+              Men
               <div className="yeni-cikanlar hidden">
                 <div className="grid grid-cols-4 gap-4">
                   {" "}
@@ -1726,7 +1726,7 @@ const Navbar = () => {
           </Link>
           <Link to="/erkek">
             <li>
-              Kadın
+              Women
               <div className="yeni-cikanlar hidden">
                 <div className="grid grid-cols-4 gap-4">
                   <Menu options={womanProducts} />
@@ -1736,7 +1736,7 @@ const Navbar = () => {
           </Link>
           <Link to="/erkek">
             <li>
-              Çocuk
+              Kids
               <div className="yeni-cikanlar hidden">
                 <div className="grid grid-cols-5 gap-4">
                   <Menu options={kidProducts} />
@@ -1746,7 +1746,7 @@ const Navbar = () => {
           </Link>
           <Link to="/erkek">
             <li>
-              İndirim
+              Sales
               <div className="yeni-cikanlar hidden">
                 <div className="grid grid-cols-5 gap-4">
                   <Menu options={saleProducts} />
@@ -1756,7 +1756,7 @@ const Navbar = () => {
           </Link>
           <Link to="/erkek">
             <li>
-              Koleksiyonlar
+              Collections
               <div className="yeni-cikanlar hidden">
                 <div className="grid grid-cols-5 gap-4">
                   <Menu options={collectionProducts} />
@@ -1768,7 +1768,7 @@ const Navbar = () => {
         <div className="absolute right-28 hidden lg:block">
           <i className="fa-solid fa-magnifying-glass absolute top-1.5 left-2 opacity-50 text-lg"></i>
           <input
-            placeholder="Ara..."
+            placeholder="Search"
             className="bg-[#f0efef] p-2 rounded-full w-40 pl-8 hover:bg-[#ebe9e9]"
             type="text"
           />

@@ -14,7 +14,7 @@ const Maintain = () => {
               Yeni Sezon. Yeni Hedefler.
               <div className="mt-10">
                 <button className="bg-white rounded-full px-4 py-1.5 text-black text-opacity-80 hover:bg-gray-300">
-                  İncele
+                  Shop
                 </button>
               </div>
             </div>
@@ -30,7 +30,7 @@ const Maintain = () => {
               Canlan ve Yenilen
               <div className="mt-10">
                 <button className="bg-white rounded-full px-4 py-1.5 text-black text-opacity-80 hover:bg-gray-300">
-                  İncele
+                  Shop
                 </button>
               </div>
             </div>

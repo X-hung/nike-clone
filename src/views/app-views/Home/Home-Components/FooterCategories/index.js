@@ -5,39 +5,39 @@ const FooterCategories = () => {
   return (
     <div className="grid grid-cols-2 gap-8 md:grid-cols-4 mt-20 text-center">
       <div className="col-span-1">
-        <span>Ayakkabılar</span>
+        <span>Shoes</span>
         <ul className="footer-categories">
-          <li>Tüm Ayakkabılar</li>
-          <li>Antrenman Ayakkabıları</li>
-          <li>Kramponlar</li>
-          <li>Koşu Ayakkabıları</li>
+          <li>Sneakers and Shoes</li>
+          <li>Football Boots</li>
+          <li>Running Shoes</li>
+          <li>Netball Sneakers</li>
         </ul>
       </div>
       <div className="col-span-1">
-        <span>Giysiler</span>
+        <span>Clothing</span>
         <ul className="footer-categories">
-          <li>Tüm Giysiler</li>
-          <li>Üstler</li>
-          <li>Eşofman Altları ve Taytlar</li>
-          <li>Ceketler</li>
+          <li>All Clothing</li>
+          <li>Tops</li>
+          <li>Trousers and Leggings</li>
+          <li>Tracksuits</li>
         </ul>
       </div>
       <div className="col-span-1">
-        <span>Çocuk</span>
+        <span>Kids'</span>
         <ul className="footer-categories">
-          <li>Çocuk Antrenman Ayakkabıları</li>
-          <li>Çocuk Sırt Çantaları</li>
-          <li>Çocuk Kramponları</li>
-          <li>Çocuk Koşu Ayakkabıları</li>
+          <li>Kids' Sneakers</li>
+          <li>Kids' Backpacks</li>
+          <li>Kids' Football Boots</li>
+          <li>Kids' Running Shoes</li>
         </ul>
       </div>
       <div className="col-span-1">
-        <span>Öne Çıkanlar</span>
+        <span>Featured</span>
         <ul className="footer-categories">
-          <li>Yeni Çıkanlar</li>
-          <li>Nike Run Club</li>
-          <li>Nike Training Club</li>
-          <li>Sırt Çantaları ve Çantalar</li>
+          <li>New Releases</li>
+          <li>Backpacks and Bags</li>
+          <li>Footballs</li>
+          <li>Goalkeeper Gloves</li>
         </ul>
       </div>
     </div>

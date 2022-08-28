@@ -14,11 +14,11 @@ const Cart = () => {
         <div className="mt-48">
           Favorilerini görüntülemek ister misin?{" "}
           <Link to="/register">
-            <span className="underline opacity-70">Bize Katıl</span>
+            <span className="underline opacity-70">Join Us</span>
           </Link>{" "}
           veya{" "}
           <Link to="/login">
-            <span className="underline opacity-70">Oturum Aç</span>{" "}
+            <span className="underline opacity-70">Log In</span>{" "}
           </Link>
         </div>
       </div>

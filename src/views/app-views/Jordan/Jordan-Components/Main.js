@@ -19,7 +19,7 @@ const Main = () => {
         Jordan ile Paris Saint-Germain, yeni bir renk grubu ve 1990'lardan ilham
         alan dikkat çekici bir motifle iş birliklerini bir üst düzeye taşıyor.
       </span>
-      <button className="jordan-button">İncele</button>
+      <button className="jordan-button">Shop</button>
     </div>
   );
 };

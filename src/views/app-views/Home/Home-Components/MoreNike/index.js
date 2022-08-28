@@ -12,7 +12,7 @@ const MoreNike = () => {
               src="https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_751,c_limit/0bafb728-2ae2-416f-bb18-5935801c8071/resmi-nike-sitesi.png"
               alt="More With Nike"
             />
-            <button className="button-in-photo-more">Erkek</button>
+            <button className="button-in-photo-more">Men</button>
           </div>
         </div>
         <div className="col-span-1">
@@ -21,7 +21,7 @@ const MoreNike = () => {
               src="https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_751,c_limit/2c8754ce-6287-4e77-a198-1ad483fba257/resmi-nike-sitesi.png"
               alt="More With Nike"
             />
-            <button className="button-in-photo-more">Kadın</button>
+            <button className="button-in-photo-more">Women</button>
           </div>
         </div>
         <div className="col-span-1">
@@ -30,7 +30,7 @@ const MoreNike = () => {
               src="https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/h_751,c_limit/414db494-7ebc-4d53-bbff-58d50b380a24/resmi-nike-sitesi.png"
               alt="More With Nike"
             />
-            <button className="button-in-photo-more">Çocuk</button>
+            <button className="button-in-photo-more">Kids</button>
           </div>
         </div>
       </div>

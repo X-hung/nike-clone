@@ -23,7 +23,7 @@ const Background = () => {
           </div>
 
           <div className="flex gap-2 justify-center">
-            <button className="jordan-button text-lg">İncele</button>
+            <button className="jordan-button text-lg">Shop</button>
             <button className="jordan-button text-lg">İzle</button>
           </div>
         </div>

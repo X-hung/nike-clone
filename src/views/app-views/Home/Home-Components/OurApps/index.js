@@ -15,7 +15,7 @@ const OurApps = () => {
               <span className="text-white">Nike App</span>
               <div className="button-apps mt-10 mb-5">
                 <button className="bg-white text-black px-4 py-1.5 rounded-full tracking-wide hover:bg-gray-400">
-                  Daha Fazla Bilgi
+                  Learn More
                 </button>
               </div>
             </div>
@@ -31,7 +31,7 @@ const OurApps = () => {
               <span className="text-white">Nike Run Club Uygulaması</span>
               <div className="button-apps mt-10 mb-5">
                 <button className="bg-white text-black px-4 py-1.5 rounded-full tracking-wide hover:bg-gray-400">
-                  Daha Fazla Bilgi
+                  Learn More
                 </button>
               </div>
             </div>

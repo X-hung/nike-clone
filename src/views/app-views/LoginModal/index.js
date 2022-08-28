@@ -41,7 +41,7 @@ const LoginModal = () => {
   }
   return (
     <>
-      <li onClick={openModal}>Oturum Aç</li>
+      <li onClick={openModal}>Sign in</li>
       <div>
         <Modal
           className="Modal"

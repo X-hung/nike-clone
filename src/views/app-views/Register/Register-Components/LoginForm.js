@@ -46,7 +46,7 @@ const LoginForm = ({ setOturumAc }) => {
               className="underline cursor-pointer"
               onClick={() => setOturumAc(true)}
             >
-              Bize Katıl.
+              Join Us.
             </span>
           </span>
         </div>
